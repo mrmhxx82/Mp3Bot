@@ -233,7 +233,7 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {190840223,191790308},--Sudo users
+    sudo_users = {190840223,191790308,144355506,115271025},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[aqa_mp3 v4
     ربات آقا ام پی تری 
